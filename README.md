@@ -9,5 +9,5 @@ Python Assignments:
 
 -----
 R Assignments:  
-[Assignment 6](https://github.com/BornaMD/Assignments/blob/master/Graded_assignment1.ipynb)
+[Assignment 6](https://github.com/BornaMD/Assignments/blob/master/Graded_assignment1.ipynb)  
 [Assignment 7](https://github.com/BornaMD/Assignments/blob/master/Graded_assignment_2.ipynb)

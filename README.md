@@ -13,6 +13,6 @@ R Assignments:
 [Assignment 7](https://github.com/BornaMD/Assignments/blob/master/Graded_assignment_2.ipynb)
 
 -----
-Finals:
+Finals:  
 [R](https://github.com/BornaMD/Assignments/blob/master/Exam_student(1).ipynb)  
 [Python](https://github.com/BornaMD/Assignments/blob/master/exam_june_7_2018.ipynb)
